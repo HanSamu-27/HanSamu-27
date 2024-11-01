@@ -1,4 +1,4 @@
-![Preview](./images/bg.webp)
+![Icon](https://i.postimg.cc/5tSnPSXg/acd061c0-5bb9-4e9b-a98c-097df06a2d43.jpg)
 
 ## **🍒 Skills**
 <a href="https://github.com/HanSamu-27"><img align="right" width="100" src="./images/one.png" /></a>
