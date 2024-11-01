@@ -1,7 +1,7 @@
 ![Icon](https://i.postimg.cc/5tSnPSXg/acd061c0-5bb9-4e9b-a98c-097df06a2d43.jpg)
 
 ## **🍒 Skills**
-<a href="https://github.com/HanSamu-27"><img align="right" width="100" src="./images/one.png" /></a>
+<a href="https://github.com/HanSamu-27"><img align="right" width="100" src="https://i.postimg.cc/SsQVHY8h/6f82ff39-a045-4e6b-855d-6306f2d0d93a.jpg" /></a>
   <img src="https://img.shields.io/badge/Node.js-f5f5dc?logo=node.js&logoColor=000000&style=flat" />
 </a>
   <img src="https://img.shields.io/badge/JavaScript-f5f5dc?logo=javascript&logoColor=000000&style=flat" />
