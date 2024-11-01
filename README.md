@@ -17,13 +17,13 @@
   <img src="https://img.shields.io/badge/Heroku-f5f5dc?logo=heroku&logoColor=000000&style=flat" />
 
 ## **☕ About me**
-<a href="https://github.com/HanSamu-27"><img align="left" width="100" src="./images/two.png"></a>
+<a href="https://github.com/HanSamu-27"><img align="left" width="100" src="https://i.postimg.cc/PJPy5G2V/4c8012b0-dc27-4c1f-9b81-2bf854b2ef29.jpg"></a>
 **Hello 🙂, my name is @Samush$_ I like to play, watch videos, create bots whether they are from WhatsApp, Telegram or another site. I listen to songs from Le sserafim, Newjeans, Blackpink, among others**
 <br><br>
 
 
 ## **💻 Experience**
-<a href="https://github.com/HanSamu-27"><img align="right" width="100" src="./images/three.png"></a>
+<a href="https://github.com/HanSamu-27"><img align="right" width="100" src="https://i.postimg.cc/HWh3Pxkq/2be2012e-673e-4d64-a9a0-8fd8e678dbeb.jpg"></a>
 
 **With 4 years of experience, I specialize in Web Scraping and have worked with Node.js, JavaScript, TypeScript, PHP, Python, HTML, CSS, MongoDB, Git, Docker, and Heroku**
 
@@ -36,7 +36,7 @@
 
 <!-- <br><br><br><br> -->
 ## **🪀 Websites**
-<a href="https://github.com/HanSamu-27"><img align="right" width="100" src="./images/four.png" /></a>
+<a href="https://github.com/HanSamu-27"><img align="right" width="100" src="https://i.postimg.cc/0ygnPBmZ/41f333d1-791c-4818-8abc-553db79af23d.jpg" /></a>
 **My Gmail:** samutrrs.fs@gmail.com
 
 **My Rest Apis:** https://apis-starlights-team.koyeb.app
