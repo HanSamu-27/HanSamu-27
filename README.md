@@ -27,6 +27,14 @@
 
 **With 4 years of experience, I specialize in Web Scraping and have worked with Node.js, JavaScript, TypeScript, PHP, Python, HTML, CSS, MongoDB, Git, Docker, and Heroku**
 
+## **📊 Github Stats**
+<!-- <div><a href="https://github.com/HanSamu-27"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=HanSamu-27&show_icons=true&count_private=true&hide_border=true&bg_color=f5f5dc&title_color=000000&text_color=000000&icon_color=000000
+"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanSamu-27&show_icons=true&count_private=true&hide_border=true&bg_color=f5f5dc&title_color=000000&text_color=000000&icon_color=000000&layout=compact&cache_seconds=86400"/>
+</p>
+
+<!-- <br><br><br><br> -->
+
 ## **🪀 Websites**
 <a href="https://github.com/HanSamu-27"><img align="right" width="100" src="https://i.postimg.cc/0ygnPBmZ/41f333d1-791c-4818-8abc-553db79af23d.jpg" /></a>
 **My Gmail:** samutrrs.fs@gmail.com
